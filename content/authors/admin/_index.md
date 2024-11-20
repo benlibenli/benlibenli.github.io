@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Ben Li is a PhD student in Astroparticle Physics at the GSSI. He obtained his MSc in astronomy from the Nanjing University and a BSc in physics from the Central China Normal University in China. His research interests are theoretical and numerical modellings of cosmic-ray transport and acceleration in high energy astrophysical sources.
+I am a PhD student in Astroparticle Physics at the GSSI. I obtained my MSc in astronomy from the Nanjing University and BSc in physics from the Central China Normal University. My research interests are theoretical and numerical modellings of cosmic-ray acceleration and transport in high energy astrophysical sources.
